@@ -10,7 +10,7 @@
 
 | Format | Platform | Link |
 |--------|----------|------|
-| 📕 **Paperback** | Amazon Books | [Buy on Amazon](https://www.amazon.com/dp/XXXXXXXXXX) |
+| 📕 **Paperback** | Amazon Books | [Buy on Amazon](https://a.co/d/0jaoujG8)) |
 | 📱 **eBook** | Amazon Kindle | [Buy on Kindle](https://www.amazon.com/dp/XXXXXXXXXX) |
 | 🎧 **Audiobook** | Audible | [Listen on Audible](https://www.audible.com/pd/XXXXXXXXXX) |
 | 🎧 **Audiobook** | Apple Books | [Listen on Apple Books](https://books.apple.com/book/XXXXXXXXXX) |
