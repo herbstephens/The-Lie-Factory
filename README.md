@@ -11,7 +11,7 @@
 | Format | Platform | Link |
 |--------|----------|------|
 | 📕 **Paperback** | Amazon Books | [Buy on Amazon](https://a.co/d/0jaoujG8)) |
-| 📱 **eBook** | Amazon Kindle | [Buy on Kindle](https://www.amazon.com/dp/XXXXXXXXXX) |
+| 📱 **eBook** | Amazon Kindle | [Buy on Kindle](https://a.co/d/09k3jhxw) |
 | 🎧 **Audiobook** | Audible | [Listen on Audible](https://www.audible.com/pd/XXXXXXXXXX) |
 | 🎧 **Audiobook** | Apple Books | [Listen on Apple Books](https://books.apple.com/book/XXXXXXXXXX) |
 | 🎧 **Audiobook** | Spotify | [Listen on Spotify](https://open.spotify.com/show/XXXXXXXXXX) |
